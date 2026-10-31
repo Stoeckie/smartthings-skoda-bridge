@@ -17,6 +17,10 @@ Routine examples: *cable plugged in and battery below 30 % → start charging*, 
 
 Settings on the car device (also on the bridge setup page): update interval (minutes, default 10) and climate temperature.
 
+**Battery history graph** (car setting): SmartThings draws no graph for battery %. Choose *Humidity (%)* to get the battery level as a humidity reading with a graph (the car then also counts as a humidity sensor), or *Power (W)* for an extra part "Battery %" with 1 % = 1 W. Default off.
+
+The icon is the EV charger icon: SmartThings has no car category.
+
 ## Install
 
 1. Install the bridge and the Edge driver: see [smartthings-stoeckie-bridge](https://github.com/Stoeckie/smartthings-stoeckie-bridge#1-bridge-on-windows).
