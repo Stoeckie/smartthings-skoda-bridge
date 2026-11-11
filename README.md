@@ -2,7 +2,7 @@
 
 Get your **Škoda** into SmartThings through Škoda's **official public API** (free, personal use): battery, charging on/off and power, charging cable, climate, at home and doors. Works for electric and plug-in hybrid Škodas with MyŠkoda connectivity; what is available depends on the car.
 
-The code lives in **[Stoeckie/smartthings-stoeckie-bridge](https://github.com/Stoeckie/smartthings-stoeckie-bridge)**: one small bridge (Windows or Docker) plus the Edge driver **Stoeckie Bridge (local)**. The same bridge also does AEG / Electrolux dryers, Fujitsu FGLair air conditioners, the VELUX ACTIVE departure mode and a rain radar (Buienradar in NL/BE, Open-Meteo worldwide); you only set up what you have. The Stoeckie Bridge device has a Connection status (Connected or Offline), so a routine can notify you when the bridge goes offline.
+The code lives in **[Stoeckie/smartthings-stoeckie-bridge](https://github.com/Stoeckie/smartthings-stoeckie-bridge)**: one small bridge (Windows or Docker) plus the Edge driver **Stoeckie Bridge (local)**. The same bridge also does AEG / Electrolux dryers, Fujitsu FGLair air conditioners, the VELUX ACTIVE departure mode, a rain radar (Buienradar in NL/BE, Open-Meteo worldwide), Home Connect appliances, Tuya heaters and Amazon Echo; you only set up what you have. The Stoeckie Bridge device has a Connection status (Connected or Offline), so a routine can notify you when the bridge goes offline.
 
 ## What you get
 
